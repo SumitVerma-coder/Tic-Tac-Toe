@@ -140,3 +140,10 @@ h1 {
   top: 50%;
   transform: translate(-50%,-50%) scale(1) ;
 }
+button:hover{
+  background-color: black;
+  color:white;
+}
+.heading{
+  padding:20px;
+}

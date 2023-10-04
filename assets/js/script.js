@@ -162,6 +162,8 @@ function isWinner(a, b) {
         const button = document.getElementById("box" + x);
         button.disabled = true;
       }
+      document.getElementById("result").style.padding='20px';
+      document.getElementById("result").style.margin='20px';
     }
   }
   
